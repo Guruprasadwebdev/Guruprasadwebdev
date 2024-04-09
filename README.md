@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Guruprasadwebdev
-- 👀 I’m interested in ...Codding
-- 🌱 I’m currently learning ...Full stack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Guru Prasad(Full-stack Developer)
 - 📫 How to reach me ...
 
 <!---
